@@ -330,3 +330,10 @@
 **Today's Progress**: Read on a wide range of topics, improved project planning.
 
 **Thoughts:** -
+<hr>
+
+### Day 146: March 2, 2021
+
+**Today's Progress**: Watched videos on breadth of knowledge.
+
+**Thoughts:** I decided that I'll build a personal blog first with React as practice before moving on to complex Apps. I gotta keep my head down.
